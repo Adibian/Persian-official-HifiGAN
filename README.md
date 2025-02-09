@@ -20,3 +20,8 @@ Please refer to [original repository]([https://github.com/kan-bayashi/ParallelWa
 
 ## Acknowledgements
 We thank the authors of the [HifiGAN repository]([https://github.com/kan-bayashi/ParallelWaveGAN](https://github.com/jik876/hifi-gan)) for their well-structured codebase and recipe, which served as the basis for this Persian adaptation.
+
+## License  
+This project is based on [HiFi-GAN](https://github.com/jik876/hifi-gan),  
+which is licensed under the MIT License.  
+The modifications for [your purpose, e.g., Persian speech synthesis, improvements] are © 2025 Majid Adibian.  
