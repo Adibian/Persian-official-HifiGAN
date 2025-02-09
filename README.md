@@ -24,4 +24,4 @@ We thank the authors of the [HifiGAN repository]([https://github.com/kan-bayashi
 ## License  
 This project is based on [HiFi-GAN](https://github.com/jik876/hifi-gan),  
 which is licensed under the MIT License.  
-The modifications for [your purpose, e.g., Persian speech synthesis, improvements] are © 2025 Majid Adibian.  
+The modifications for Persian speech synthesis are © 2025 Majid Adibian.  
